@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vertx:vertx-core:3.0.0-milestone4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/io/vertx/vertx-core/3.0.0-milestone4/vertx-core-3.0.0-milestone4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/io/vertx/vertx-core/3.0.0-milestone4/vertx-core-3.0.0-milestone4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/io/vertx/vertx-core/3.0.0-milestone4/vertx-core-3.0.0-milestone4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.shuyun:seastar-java-client:1.2.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/com/shuyun/seastar-java-client/1.2.3.RELEASE/seastar-java-client-1.2.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/com/shuyun/seastar-java-client/1.2.3.RELEASE/seastar-java-client-1.2.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../programs/java/repository/maven/com/shuyun/seastar-java-client/1.2.3.RELEASE/seastar-java-client-1.2.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
